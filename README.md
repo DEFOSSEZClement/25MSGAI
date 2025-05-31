@@ -119,10 +119,10 @@ At the end of each project phase we will conduct a short interview (20 minutes p
 Week 1 (Sep 15) | Introduction on Generative AI| Setup & Intro
 Week 2 (Sep 22) | Holiday - No class| Holiday   No Lab
 Week 3 (Sep 29) | Diffusion Model | DM
-Week 4 (Oct 6) | Diffusion Model II | Fast DM inference| 
-Week 5 (Oct 13) | Transformers | HW1 | HW1
-Week 6 (Oct 20) | Language Models I | Transformers 
-Week 7 (Oct 27) | Language Model II |Prompt engineering|Project proposal
+Week 4 (Oct 6) | VAE and GANs | Fast DM inference| 
+Week 5 (Oct 13) | LLM Models and Architecture| HW1 | HW1
+Week 6 (Oct 20) | Model Pretrain - Alignment | Transformers 
+Week 7 (Oct 27) | Model Postraining and Reasoning |Prompt engineering|Project proposal
 Week 8 (Nov 3 | Model Editing and Merging | Q/A on H2 |
 Week 9 (Nov 10) | Model Evaluation and Robustness  | No Lab | HW2
 Week 10 (Nov 17) | DTMC | Job generator | Project midterm
