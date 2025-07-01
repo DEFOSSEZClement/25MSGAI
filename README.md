@@ -126,7 +126,7 @@ Week 7 (Oct 27) | Model Postraining and Reasoning |Prompt engineering|Project pr
 Week 8 (Nov 3 | Model Editing and Merging | Q/A on H2 |
 Week 9 (Nov 10) | Model Evaluation and Robustness  | No Lab | HW2
 Week 10 (Nov 17) | DTMC | Job generator | Project midterm
-Week 11 (Nov 24) | CTM| No Lab | 
+Week 11 (Nov 24) | CTM| Performance analysis | 
 Week 12 (Dec 1) | Queueing   |  Q/A on HW3
 Week 13 (Dec 9) | Holiday - No class| Holiday   No Lab
 Week 14 (Dec 15) | Project presentation | No Lab
