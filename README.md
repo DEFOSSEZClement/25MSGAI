@@ -119,7 +119,7 @@ At the end of each project phase we will conduct a short interview (20 minutes p
 Week 1 (Sep 15) | Introduction on Generative AI (lecture 1)| Diffusion model (lecture 2)
 Week 2 (Sep 22) | Holiday - No class| Holiday   No Lab
 Week 3 (Sep 29) | Lab setup | Diffusion model
-Week 4 (Oct 6) | VAE and GANs | Fast DM inference| 
+Week 4 (Oct 6) | VAE and GANs | Table Diffusion| 
 Week 5 (Oct 13) | LLM Models and Architecture| HW1 | HW1
 Week 6 (Oct 20) | Model Pretrain - Alignment | Transformers |Project proposal
 Week 7 (Oct 27) | Model Postraining and Reasoning |Prompt engineering|
@@ -135,12 +135,15 @@ Week 14 (Dec 15) | Project presentation | No Lab
 
 ##  7. <a name='Relevantreferences'></a>Relevant references 
 
-### 7.1 <a name='Onlinelecturenotes'></a>Online lecture notes
 
- - [Design of Experiments](https://newonlinecourses.science.psu.edu/stat503/node/5/), Penn State University
- - [Computer System Performance Evaluation](http://www.cse.cuhk.edu.hk/~cslui/csc5420.html) , John C.S. Lui at CUHK
+###  7.1. <a name='Booksonstatisticalexperimentsandlearning'></a>Statistical and Deep and learning
+- [Design and Analysis of Experiments](http://faculty.business.utsa.edu/manderso/STA4723/readings/Douglas-C.-Montgomery-Design-and-Analysis-of-Experiments-Wiley-2012.pdf) by Douglas Montgomery
+- [Dive into Deep Learning](https://www.d2l.ai/) by Alex Smola et. al.
+- [Deep Learning](https://www.deeplearningbook.org/)
+- [Pattern Recognition and Machine Learning]() by Christopher Bishop 
+- [Introduction to Machine learning](http://www.cs.cmu.edu/~epxing/Class/10701/), Eric Xing at Carnagie Mellon University
 - [Data Mining](http://personal.psu.edu/jol2/course/stat557/), Jia Li at Penn State University
--  [Introduction to Machine learning](http://www.cs.cmu.edu/~epxing/Class/10701/), Eric Xing at Carnagie Mellon University
+- [Design of Experiments](https://newonlinecourses.science.psu.edu/stat503/node/5/), Penn State University
 
 
 
@@ -148,12 +151,8 @@ Week 14 (Dec 15) | Project presentation | No Lab
 - Introduction to Probability Models by S. M. Ross, 
 - Quantitative System Performance by E. Lazowska, J. Zahorjan, S. Graham, and K. Sevcik.
 - Capacity Planning and Performance Modeling by D. Menasce, V. Almeida, and L. Dowdy 
+- [Computer System Performance Evaluation](http://www.cse.cuhk.edu.hk/~cslui/csc5420.html) , John C.S. Lui at CUHK
 
-
-###  7.3. <a name='Booksonstatisticalexperimentsandlearning'></a>Books on statistical experiments and learning
-- [Design and Analysis of Experiments](http://faculty.business.utsa.edu/manderso/STA4723/readings/Douglas-C.-Montgomery-Design-and-Analysis-of-Experiments-Wiley-2012.pdf) by Douglas Montgomery
-- [Dive into Deep Learning](https://www.d2l.ai/) by Alex Smola et. al.
-- [Pattern Recognition and Machine Learning]() by Christopher Bishop 
 
 
 
