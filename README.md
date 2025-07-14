@@ -117,7 +117,7 @@ At the end of each project phase we will conduct a short interview (20 minutes p
 **Week**|**Lecture Topic**|**Lab Topic**|**Assignment Due**
 :-----|:-----|:-----|:-----
 Week 1 (Sep 15) | Introduction on Generative AI (lecture 1)| Diffusion model (lecture 2)
-Week 2 (Sep 22) | Holiday - No class| Holiday   No Lab
+Week 2 (Sep 22) | Holiday - No class| Holiday- No Lab
 Week 3 (Sep 29) | Lab setup | Diffusion model
 Week 4 (Oct 6) | VAE and GANs | Table Diffusion| 
 Week 5 (Oct 13) | LLM Models and Architecture| HW1 | HW1
