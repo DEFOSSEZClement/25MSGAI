@@ -55,7 +55,7 @@ Course topics include
 This course will be mainly taught by [Prof. Lydia Y Chen](https://lydiaychen.github.io/)  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
 
 
--  [Gert Lek](mailto:gert.lek@unine.ch) (Unine PhD student) L
+-  [Gert Lek](mailto:gert.lek@unine.ch) (Unine PhD student) 
 -  [Basile Lewandowski](mailto:basile.lewandowski@unine.c) (Unine PhD student)
 
 
@@ -118,9 +118,9 @@ At the end of each project phase we will conduct a short interview (20 minutes p
 :-----|:-----|:-----|:-----
 Week 1 (Sep 15) | Introduction on Generative AI (lecture 1)| Diffusion model (lecture 2)
 Week 2 (Sep 22) | Holiday - No class| Holiday- No Lab
-Week 3 (Sep 29) | Lab setup | Diffusion model
-Week 4 (Oct 6) | VAE and GANs | Table Diffusion| 
-Week 5 (Oct 13) | LLM Models and Architecture| HW1 | HW1
+Week 3 (Sep 29) | Lab setup | Diffusion models (DDPM)
+Week 4 (Oct 6) | VAE and GANs | Diffusion models (DDIM)| 
+Week 5 (Oct 13) | LLM Models and Architecture| HW1 (DDIM and Tabular Diffusion) | HW1
 Week 6 (Oct 20) | Model Pretrain - Alignment | Transformers |Project proposal
 Week 7 (Oct 27) | Model Postraining and Reasoning |Prompt engineering|
 Week 8 (Nov 3 | Model Editing and Merging | Q/A on H2 |
