@@ -1,0 +1,52 @@
+--index-url https://download.pytorch.org/whl/cu124
+--extra-index-url https://pypi.org/simple
+
+# Core ML libraries
+torch==2.5.0+cu124
+torchaudio==2.5.0+cu124
+torchvision==0.20.0+cu124
+
+diffusers==0.34.0
+transformers==4.53.2
+datasets==3.6.0
+tokenizers==0.21.2
+huggingface-hub==0.33.4
+safetensors==0.5.3
+accelerate==1.8.1
+scikit-learn==1.7.1
+
+# Data processing
+numpy==2.3.1
+pandas==2.3.1
+tqdm==4.67.1
+pillow==11.3.0
+pyarrow==20.0.0
+matplotlib==3.10.5
+seaborn==0.13.2
+
+# Jupyter and notebook environment
+jupyter_client==8.6.3
+jupyter_core==5.8.1
+ipython==9.4.0
+ipykernel==6.29.5
+python-dotenv==1.1.1
+
+# Development tools
+requests==2.32.4
+pyyaml==6.0.2
+regex==2024.11.6
+fsspec==2025.3.0
+filelock==3.18.0
+typing_extensions==4.14.1
+packaging==25.0
+nbstripout==0.8.1
+
+# Fine-tuning dependencies
+peft==0.16.0
+trl==0.19.1
+cut-cross-entropy==25.1.1
+sentencepiece==0.2.0
+protobuf==3.20.3
+hf_transfer==0.1.9
+bitsandbytes==0.46.1
+rouge_score==0.1.2
