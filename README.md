@@ -121,9 +121,9 @@ Week 2 (Sep 22) | Holiday - No class| Holiday- No Lab
 Week 3 (Sep 29) | Lab setup | Diffusion models (DDPM)
 Week 4 (Oct 6) | VAE and GANs | Diffusion models (DDIM)| 
 Week 5 (Oct 13) | LLM Models and Architecture| HW1 (DDIM and Tabular Diffusion) | HW1
-Week 6 (Oct 20) | Model Pretrain - Alignment | Transformers |Project proposal
-Week 7 (Oct 27) | Model Postraining and Reasoning |Prompt engineering|
-Week 8 (Nov 3 | Model Editing and Merging | Q/A on H2 |
+Week 6 (Oct 20) | Model Pretrain - Alignment | Language Transformers |Project proposal
+Week 7 (Oct 27) | Model Postraining and Reasoning | LLM Finetuning |
+Week 8 (Nov 3) | Model Editing and Merging | Q/A on H2 |
 Week 9 (Nov 10) | Model Evaluation and Robustness  | No Lab | HW2
 Week 10 (Nov 17) | DTMC | Job generator | Project midterm
 Week 11 (Nov 24) | CTM| Performance analysis | 
