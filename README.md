@@ -85,7 +85,7 @@ This course has no final exam, instead the grade is largely determined through t
 
 ###  5.1. <a name='Homework'></a>Homework
 - Homework 1: due in week 4 
-- Homework 2: due in week 8
+- Homework 2: due in week 9
 - Homework 3: due in week 12
 
 Students are given additional 48 hours grace period for late submission and will not receive any grade penalty. However, submissions after 48 hours grace period will not be considered and students will loose 25 points of their final grade. 
@@ -100,8 +100,8 @@ There are different aspects of performance  on modeling and optimizing the execu
 - Schedule: 
   - Initial proposal: week 6
   - Interim meeting: week 10
-  - Report due: week 13
-  -  Presentation/interview: week 13 
+  - Report due: week 14
+  -  Presentation/interview: week 14
 
 
 
@@ -128,7 +128,7 @@ Week 9 (Nov 10) | Model Evaluation and Robustness  | No Lab | HW2
 Week 10 (Nov 17) | DTMC | Job generator | Project midterm
 Week 11 (Nov 24) | CTM| Performance analysis | 
 Week 12 (Dec 1) | Queueing   |  Q/A on HW3
-Week 13 (Dec 9) | Holiday - No class| Holiday   No Lab
+Week 13 (Dec 9) | Holiday - No class| Holiday   No Lab | HW#
 Week 14 (Dec 15) | Project presentation | No Lab
 
 
