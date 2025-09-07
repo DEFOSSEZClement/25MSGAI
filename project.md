@@ -15,7 +15,7 @@ The objectives of this project are two fold: (i) building a performance model to
 Milestones:
 
 1. **Project proposal** (mandatory, but ungraded - you will receive feedback): due on week 6
-2. **Intermediate project meeting** (mandatory, but ungraded - you will receive feedback): due on week 9
+2. **Intermediate project meeting** (mandatory, but ungraded - you will receive feedback): due on week 10
 3. **Final project report** (mandatory, graded): due on week 13
 4. **20 min project presentation** (mandatory, graded): due on week 13
 
