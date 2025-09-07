@@ -129,7 +129,7 @@ Week 10 (Nov 17) | DTMC | Job generator | Project midterm
 Week 11 (Nov 24) | CTM| Performance analysis | 
 Week 12 (Dec 1) | Queueing   |  Q/A on HW3 |HW3
 Week 13 (Dec 9) | Holiday - No class| Holiday   No Lab | 
-Week 14 (Dec 15) | Project presentation | No Lab
+Week 14 (Dec 15) | Project presentation | No Lab | Project report and presentation
 
 
 
