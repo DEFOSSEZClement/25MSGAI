@@ -74,7 +74,7 @@ Lydia is the responsible instructors of this course and can be reached at **lydi
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
-1. Homework (30%): 3 individual homework due in week 4, 8, 12. Each homework accounts 10  of the grade and cover 4 weeks material. All homework will be released at the beginning of the semester.
+1. Homework (30%): 3 individual homework due in week 5, 9, 12. Each homework accounts 10  of the grade and cover 3-4 weeks material. All homework will be released at the beginning of the semester.
 
 
 2. Group project (70%): group project report (60%) and presentation (10%). There will be topics of modeling response times, configuring, dependability, scheduling design. There will be an initial proposal in week 6, interim discussion with each team in week 10. The final report will be due in week 13, and 20 minutes presentation in week 9 as well.
@@ -127,8 +127,8 @@ Week 8 (Nov 3 | Model Editing and Merging | Q/A on H2 |
 Week 9 (Nov 10) | Model Evaluation and Robustness  | No Lab | HW2
 Week 10 (Nov 17) | DTMC | Job generator | Project midterm
 Week 11 (Nov 24) | CTM| Performance analysis | 
-Week 12 (Dec 1) | Queueing   |  Q/A on HW3
-Week 13 (Dec 9) | Holiday - No class| Holiday   No Lab | HW#
+Week 12 (Dec 1) | Queueing   |  Q/A on HW3 |HW3
+Week 13 (Dec 9) | Holiday - No class| Holiday   No Lab | 
 Week 14 (Dec 15) | Project presentation | No Lab
 
 
