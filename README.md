@@ -84,7 +84,7 @@ This course has no final exam, instead the grade is largely determined through t
 
 
 ###  5.1. <a name='Homework'></a>Homework
-- Homework 1: due in week 4 
+- Homework 1: due in week 5 
 - Homework 2: due in week 9
 - Homework 3: due in week 12
 
