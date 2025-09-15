@@ -76,4 +76,5 @@ Follow these steps before the session to configure your Huggingface API token.
 **N.B.** To submit this homework, you must make sure all outputs in the notebooks are present, and that the notebooks are
 correctly formatted.
 
-We do recommend using `git` to commit your work, and able to revert breaking changes. 
+We do recommend using `git` to commit your work, to be able to revert breaking changes. 
+
