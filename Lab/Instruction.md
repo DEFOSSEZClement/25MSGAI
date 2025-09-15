@@ -1,4 +1,4 @@
-# MSGAI lab innstructions
+# MSGAI lab instructions
 
 ## Course Overview
 This course covers the fundamentals and applications of generative AI.
